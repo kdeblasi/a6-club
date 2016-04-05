@@ -1,0 +1,46 @@
+body {
+  background-color: #E0B0FF;
+}
+
+.container {
+  width: 600px;
+  margin: 50px auto 0 auto;
+  text-align: center;
+}
+
+.container img {
+  width: 100%;
+}
+
+h1 {
+  margin-top: 20px;
+  font-family: 'Bangers', cursive;
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+input {
+  height: 50px;
+  width: 200px;
+  margin-right: 20px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.form {
+  margin-bottom: 40px;
+}
+
+#answer {
+  font-size: 80px;
+  color: #7FFFD4;
+  font-family: 'Bangers', cursive;
+}
+
+#bar-submit {
+  font-size: 15px;
+  color: purple;
+  font-family: 'Bangers', cursive;
+}
+
+
